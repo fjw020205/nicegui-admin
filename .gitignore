@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+build/
+dist/
+*.spec
+.nicegui/
+.pytest_cache/
+tests/.tmp/
+edge-visual.log
+.idea/
+.trae/
